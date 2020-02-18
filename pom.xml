@@ -24,5 +24,6 @@
 	<modules>
 		<module>HibernteDemo</module>
 		<module>OneToOne</module>
+		<module>OneToMany</module>
 	</modules>
 </project>
