@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: HibernteBasics
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: j.utekar
+Implementation-Vendor-Id: HibernteBasics
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org/HibernteBasics
+Created-By: Maven Integration for Eclipse
+
