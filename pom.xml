@@ -22,7 +22,6 @@
 	<dependencies>
 	</dependencies>
 	<modules>
-		<module>HibernteBasics</module>
-		
+		<module>HibernteDemo</module>
 	</modules>
 </project>

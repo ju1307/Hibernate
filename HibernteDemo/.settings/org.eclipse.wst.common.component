@@ -4,7 +4,7 @@
         <wb-resource deploy-path="/" source-path="/Web" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
+        <property name="context-root" value="HibernteDemo"/>
         <property name="java-output-path" value="/HibernteDemo/build/classes"/>
-        <property name="context-root" value="HibernteBasics"/>
     </wb-module>
 </project-modules>
