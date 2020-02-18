@@ -23,5 +23,6 @@
 	</dependencies>
 	<modules>
 		<module>HibernteBasics</module>
+		<module>OneToOneMapping</module>
 	</modules>
 </project>
